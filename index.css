@@ -99,7 +99,7 @@ a{
       position: relative;
       top: 160px;
   }
-.submit-div button{
+.submit-div .sbmtbtn{
     color: black;
     font-weight: 700;
     font-size: 18px;
